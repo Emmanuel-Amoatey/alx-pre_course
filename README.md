@@ -1,1 +1,1 @@
-My first readme
+My first ALX-pre-course readme
